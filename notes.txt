@@ -1,0 +1,3 @@
+PM.02 Practice
+Repository example for code review and metrics.
+Author: Rasul Dzhumabaev
